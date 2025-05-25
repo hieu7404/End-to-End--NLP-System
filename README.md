@@ -1,4 +1,4 @@
-ASSIGNMENT END-TO-END - NLP-SYSTEM BUILDING
+# ASSIGNMENT END-TO-END - NLP-SYSTEM BUILDING  
 Dự án này phát triển một hệ thống hỏi đáp tự động sử dụng mô hình Retrieval-Augmented Generation (RAG) dựa trên dữ liệu từ các trang web của Đại học Quốc gia Hà Nội (VNU) và Trường Đại học Công nghệ (UET). Hệ thống bao gồm các bước thu thập dữ liệu, xử lý văn bản, tạo embedding với mô hình bkai-foundation-models/vietnamese-bi-encoder và sinh câu trả lời bằng mô hình Llama-3.2-1B-Instruct.
 CẤU TRÚC DỰ ÁN  
 
@@ -22,7 +22,7 @@ evaluate.py: Đánh giá hiệu suất hệ thống (đạt độ chính xác 32
 
 
 
-# HƯỚNG DẪN SỬ DỤNG
+### HƯỚNG DẪN SỬ DỤNG
 
 Chạy crawl_data.py để thu thập dữ liệu từ các URL.  
 Chạy processing_data.py để làm sạch dữ liệu thô.  
@@ -31,7 +31,7 @@ Sử dụng rag_system.py và llm_generator.py để thực hiện hỏi đáp.
 Chạy run_rag.py để tự động hóa quy trình hỏi đáp và lưu kết quả.  
 Chạy evaluate.py để đánh giá hiệu suất hệ thống.  
 
-THÀNH VIÊN NHÓM
+### THÀNH VIÊN NHÓM
 
 Bùi Duy Hải - 22022575  
 Lê Trung Hiếu - 22022576  
