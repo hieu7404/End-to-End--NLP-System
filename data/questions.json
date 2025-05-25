@@ -1,0 +1,326 @@
+[
+    {
+        "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào?",
+        "reference_answer": "1993"
+    },
+    {
+        "question": "VNU có bao nhiêu cơ sở chính tại Hà Nội?",
+        "reference_answer": "5"
+    },
+    {
+        "question": "Chương trình đào tạo của VNU bao gồm những gì?",
+        "reference_answer": "cử nhân, thạc sĩ, tiến sĩ"
+    },
+    {
+        "question": "Địa chỉ của Trường Đại học Công nghệ nằm ở đâu?",
+        "reference_answer": "E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội"
+    },
+    {
+        "question": "Trường Đại học Công nghệ tuyển sinh bao nhiêu ngành đào tạo trình độ đại học trong năm 2025?",
+        "reference_answer": "14"
+    },
+    {
+        "question": "Ai là Bí thư Đảng ủy Trường Đại học Công nghệ nhiệm kỳ 2020–2025?",
+        "reference_answer": "Lê Trung Thành"
+    },
+    {
+        "question": "Địa chỉ email tư vấn tuyển sinh của UET là gì?",
+        "reference_answer": "tuyensinhdhcn@vnu.edu.vn"
+    },
+    {
+        "question": "Số điện thoại tư vấn tuyển sinh của UET là gì?",
+        "reference_answer": "0334924224"
+    },
+    {
+        "question": "Trang web chính thức của thông tin tuyển sinh UET là gì?",
+        "reference_answer": "tuyensinh.uet.vnu.edu.vn"
+    },
+    {
+        "question": "Phương thức chính để tra cứu thông tin tuyển sinh UET là gì?",
+        "reference_answer": "Tra cứu"
+    },
+    {
+        "question": "Trang chủ của Trường Đại học Công nghệ là gì?",
+        "reference_answer": "http://uet.vnu.edu.vn/"
+    },
+    {
+        "question": "Link group tư vấn tuyển sinh của UET là gì?",
+        "reference_answer": "https://www.facebook.com/groups/uet.tvts/"
+    },
+    {
+        "question": "Chỉ tiêu tuyển sinh chương trình VNU 12+ năm học 2024-2025 là bao nhiêu?",
+        "reference_answer": "30"
+    },
+    {
+        "question": "Lệ phí xét tuyển chương trình VNU 12+ là bao nhiêu?",
+        "reference_answer": "200.000đ/hồ sơ"
+    },
+    {
+        "question": "Thời gian công bố kết quả xét tuyển chương trình VNU 12+ là khi nào?",
+        "reference_answer": "Trước 16h00 ngày 10/10/2024"
+    },
+    {
+        "question": "Điểm chuẩn ngành Công nghệ thông tin năm 2024 của UET là bao nhiêu?",
+        "reference_answer": "27,8"
+    },
+    {
+        "question": "Thời gian tra cứu kết quả trúng tuyển năm 2024 của UET bắt đầu từ khi nào?",
+        "reference_answer": "21h00 ngày 17/08/2024"
+    },
+    {
+        "question": "Số điện thoại hỗ trợ phản hồi tuyển sinh của UET là gì?",
+        "reference_answer": "0334.924.224"
+    },
+    {
+        "question": "Thời gian nộp minh chứng xét tuyển ĐHCQ năm 2024 của UET là khi nào?",
+        "reference_answer": "Từ 8h00 ngày 20/8/2024 đến 17h00 ngày 10/09/2024"
+    },
+    {
+        "question": "Địa chỉ nộp minh chứng xét tuyển ĐHCQ năm 2024 của UET là đâu?",
+        "reference_answer": "Phòng 107, Nhà E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội"
+    },
+    {
+        "question": "Minh chứng cần nộp cho xét tuyển thẳng theo quy chế ĐHQGHN là gì?",
+        "reference_answer": "Giấy chứng nhận đoạt giải bản sao hợp lệ"
+    },
+    {
+        "question": "Thời gian nhập học đại học chính quy năm 2024 của UET diễn ra khi nào?",
+        "reference_answer": "Thứ Bảy ngày 24/08/2024"
+    },
+    {
+        "question": "Số tiền tạm thu khi nhập học tại UET năm 2024 là bao nhiêu?",
+        "reference_answer": "8.000.000đ"
+    },
+    {
+        "question": "Hotline hỗ trợ nhập học của UET là số nào?",
+        "reference_answer": "0886241976"
+    },
+    {
+        "question": "Thời gian mở cổng đăng ký xét tuyển ĐHCQ năm 2024 của UET là khi nào?",
+        "reference_answer": "Từ 08/05/2024 đến 10/06/2024"
+    },
+    {
+        "question": "Link tải đề án tuyển sinh ĐHCQ năm 2024 của UET là gì?",
+        "reference_answer": "QHI_De an TS ĐHCQ năm 2024"
+    },
+    {
+        "question": "Số điện thoại liên hệ Phòng Đào tạo của UET là gì?",
+        "reference_answer": "024.3754 7865"
+    },
+    {
+        "question": "Khoa nào tại UET đóng góp vào ngành nông nghiệp bền vững?",
+        "reference_answer": "Khoa Công nghệ Nông nghiệp"
+    },
+    {
+        "question": "Chương trình VTV nào tôn vinh sinh viên UET trong nông nghiệp?",
+        "reference_answer": "Ánh sáng tri thức"
+    },
+    {
+        "question": "Mục tiêu chính của sinh viên Khoa Công nghệ Nông nghiệp tại UET là gì?",
+        "reference_answer": "đổi mới tương lai nông nghiệp Việt Nam bằng công nghệ"
+    },
+    {
+        "question": "Chương trình nào của HTV giới thiệu ngành Công nghệ Hàng không Vũ trụ tại UET?",
+        "reference_answer": "[HTV] Sinh viên năm hai chia sẻ lý do lựa chọn ngành Công nghệ Hàng không Vũ trụ của UET"
+    },
+    {
+        "question": "Số chỉ tiêu ngành Khoa học dữ liệu tại UET năm 2025 là bao nhiêu?",
+        "reference_answer": "120"
+    },
+    {
+        "question": "Ngành Công nghệ Hàng không Vũ trụ tại UET đào tạo trong bao lâu?",
+        "reference_answer": "4,5 năm"
+    },
+    {
+        "question": "Chương trình đào tạo ngành Công nghệ Hàng không Vũ trụ tại UET bao gồm gì?",
+        "reference_answer": "thiết kế, sản xuất thiết bị bay không người lái, máy bay cỡ nhỏ, hệ thống điều khiển, công nghệ vệ tinh"
+    },
+    {
+        "question": "Cơ hội nghề nghiệp nào dành cho kỹ sư ngành Công nghệ Hàng không Vũ trụ tại UET?",
+        "reference_answer": "tham gia dự án quốc tế, phát triển công nghệ hàng không vũ trụ quốc gia"
+    },
+    {
+        "question": "Trường Đại học Công nghệ có bao nhiêu lĩnh vực được xếp hạng trong QS WUR by Subject 2025?",
+        "reference_answer": "4 lĩnh vực"
+    },
+    {
+        "question": "Lĩnh vực nào của Trường Đại học Công nghệ được xếp hạng trong nhóm 401-450 theo QS WUR by Subject 2025?",
+        "reference_answer": "Cơ kỹ thuật, hàng không và chế tạo (Engineering – Mechanical, Aeronautical & Manufacture); Kỹ thuật điện và điện tử (Engineering – Electrical & Electronic)"
+    },
+    {
+        "question": "Ngành Khoa học dữ liệu tại Trường Đại học Công nghệ tuyển sinh bao nhiêu chỉ tiêu năm 2025?",
+        "reference_answer": "120"
+    },
+    {
+        "question": "Sinh viên ngành Khoa học dữ liệu tại UET có cơ hội thực tập tại những doanh nghiệp nào?",
+        "reference_answer": "Viettel, FPT, VNPT"
+    },
+    {
+        "question": "Trường Đại học Công nghệ dự kiến tuyển bao nhiêu sinh viên năm 2025?",
+        "reference_answer": "4000"
+    },
+    {
+        "question": "Ngành nào tại UET được ưu tiên với 1000 chỉ tiêu trong năm 2025?",
+        "reference_answer": "Khoa học máy tính, Kỹ thuật máy tính, Điện tử viễn thông, Công nghệ AI, Kỹ thuật dữ liệu, Vật liệu"
+    },
+    {
+        "question": "Thủ khoa Đinh Trọng Thăng tốt nghiệp ngành nào tại Trường Đại học Công nghệ?",
+        "reference_answer": "Kỹ thuật năng lượng"
+    },
+    {
+        "question": "Lý do chính khiến Đinh Trọng Thăng từ bỏ học bổng sau đại học tại Hàn Quốc và Đài Loan để học tại UET?",
+        "reference_answer": "Đề án đổi mới, nâng cao chất lượng đào tạo sau đại học và môi trường học thuật lý tưởng tại UET"
+    },
+    {
+        "question": "Chính sách nào của UET hỗ trợ học viên cao học và nghiên cứu sinh từ năm 2025?",
+        "reference_answer": "Miễn học phí, cấp sinh hoạt phí hàng tháng"
+    },
+    {
+        "question": "Ngày hội việc làm UET Job Fair 2025 tổ chức hội thảo nào vào ngày 2/3/2025?",
+        "reference_answer": "Sinh viên cần chuẩn bị gì để khởi nghiệp thành công"
+    },
+    {
+        "question": "Chương trình VNU-Samsung Technology Track (V-STT) hợp tác giữa UET và ai?",
+        "reference_answer": "Samsung Electronics Hàn Quốc"
+    },
+    {
+        "question": "Tân thủ khoa Nguyễn Văn Duy tốt nghiệp ngành nào tại UET?",
+        "reference_answer": "Cơ kỹ thuật"
+    },
+    {
+        "question": "Thủ khoa Đỗ Đức Mạnh tốt nghiệp ngành nào tại UET?",
+        "reference_answer": "Kỹ thuật robot"
+    },
+    {
+        "question": "Ngày nào diễn ra Ngày hội việc làm UET Job Fair 2025?",
+        "reference_answer": "22/03/2025"
+    },
+    {
+        "question": "Nhóm nghiên cứu nào của UET đạt giải Best paper award tại ATC 2024?",
+        "reference_answer": "Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, Đài Loan"
+    },
+    {
+        "question": "Số lượng học viên UET nhận học bổng Viettel Research Excellence Scholarship 2024 là bao nhiêu?",
+        "reference_answer": "5"
+    },
+    {
+        "question": "Hội thảo ICMAEE 2024 do UET phối hợp với tổ chức nào tổ chức?",
+        "reference_answer": "Hiệp hội Kỹ thuật Cơ Điện tử Quốc tế (ISME)"
+    },
+    {
+        "question": "Thủ khoa Nguyễn Minh Đức tốt nghiệp ngành nào tại UET?",
+        "reference_answer": "Khoa học máy tính"
+    },
+    {
+        "question": "Trường Đại học Công nghệ được thành lập vào ngày nào?",
+        "reference_answer": "18/10/1999"
+    },
+    {
+        "question": "Nhóm nghiên cứu nào của UET giành giải Nhất Mitsui Chemicals R&D Collaboration Award 2023?",
+        "reference_answer": "Nhóm nghiên cứu Khoa Công nghệ nông nghiệp"
+    },
+    {
+        "question": "Chương trình đào tạo nào của UET được đánh giá theo tiêu chuẩn AUN-QA?",
+        "reference_answer": "Mạng máy tính và Truyền thông dữ liệu"
+    },
+    {
+        "question": "Chương trình thạc sĩ nào được liên kết giữa UET và Trường Đại học Paris-Saclay?",
+        "reference_answer": "Kỹ thuật truyền thông và dữ liệu"
+    },
+    {
+        "question": "Bốn thủ khoa khóa K58 năm học 2016-2017 của UET là ai?",
+        "reference_answer": "Nguyễn Đức Nam, Nguyễn Minh Trang, Nguyễn Quang Linh"
+    },
+    {
+        "question": "Tuần lễ hội nhập cho sinh viên năm học 2017-2018 tại UET diễn ra khi nào?",
+        "reference_answer": "Từ 21/08 đến 25/08"
+    },
+    {
+        "question": "Ngày nào diễn ra Lễ khai giảng năm học 2021-2022 tại UET?",
+        "reference_answer": "2021"
+    },
+    {
+        "question": "Viện nào được ra mắt trực thuộc Trường Đại học Công nghệ?",
+        "reference_answer": "Viện Trí tuệ nhân tạo"
+    },
+    {
+        "question": "Trường Đại học Công nghệ được thành lập vào ngày nào?",
+        "reference_answer": "25/5/2004"
+    },
+    {
+        "question": "Hiệu trưởng hiện tại của Trường Đại học Công nghệ là ai?",
+        "reference_answer": "GS.TS. Chử Đức Trình"
+    },
+    {
+        "question": "Tầm nhìn của Trường Đại học Công nghệ đến năm 2045 là gì?",
+        "reference_answer": "Trở thành trường đại học kỹ thuật công nghệ hàng đầu trong nước, thuộc nhóm tiên tiến ở Châu Á"
+    },
+    {
+        "question": "Khẩu hiệu hành động của Trường Đại học Công nghệ là gì?",
+        "reference_answer": "Sáng tạo – Tiên phong – Chất lượng cao"
+    },
+    {
+        "question": "Trường Đại học Công nghệ có bao nhiêu khoa trực thuộc?",
+        "reference_answer": "6"
+    },
+    {
+        "question": "Trường Đại học Công nghệ có bao nhiêu viện trực thuộc?",
+        "reference_answer": "2"
+    },
+    {
+        "question": "Trường Đại học Công nghệ có bao nhiêu Nhà giáo Nhân dân?",
+        "reference_answer": "2"
+    },
+    {
+        "question": "Trường Đại học Công nghệ có bao nhiêu Nhà giáo Ưu tú?",
+        "reference_answer": "9"
+    },
+    {
+        "question": "Trường Đại học Công nghệ có bao nhiêu giáo sư?",
+        "reference_answer": "7"
+    },
+    {
+        "question": "Trường Đại học Công nghệ có bao nhiêu phó giáo sư?",
+        "reference_answer": "34"
+    },
+    {
+        "question": "Bài hát 'Trường Đại học Công nghệ mến yêu' do ai sáng tác?",
+        "reference_answer": "Đỗ Bá Đức"
+    },
+    {
+        "question": "Bài hát 'Trường Đại học Công nghệ mến yêu' được trình diễn lần đầu vào năm nào?",
+        "reference_answer": "2004"
+    },
+    {
+        "question": "Trường Đại học Công nghệ có bao nhiêu ngành đào tạo đại học?",
+        "reference_answer": "16"
+    },
+    {
+        "question": "Trường Đại học Công nghệ có bao nhiêu chuyên ngành thạc sĩ?",
+        "reference_answer": "11"
+    },
+    {
+        "question": "Trường Đại học Công nghệ có bao nhiêu ngành đào tạo đại học?",
+        "reference_answer": "23"
+    },
+    {
+        "question": "Thời gian đào tạo chuẩn của ngành Kỹ thuật robot là bao lâu?",
+        "reference_answer": "4,5 năm"
+    },
+    {
+        "question": "Trường Đại học Công nghệ có bao nhiêu chuyên ngành tiến sĩ?",
+        "reference_answer": "9"
+    },
+    {
+        "question": "Tỷ lệ nghiên cứu sinh tốt nghiệp có công trình công bố quốc tế là bao nhiêu?",
+        "reference_answer": "100%"
+    },
+    {
+        "question": "Tỷ lệ sinh viên tốt nghiệp Trường Đại học Công nghệ có việc làm là bao nhiêu?",
+        "reference_answer": "95-97%"
+    },
+    {
+        "question": "Tỷ lệ sinh viên đạt kết quả rèn luyện từ khá trở lên tại Trường Đại học Công nghệ là bao nhiêu?",
+        "reference_answer": "Trên 95%"
+    }
+]

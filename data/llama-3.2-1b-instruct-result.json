@@ -1,0 +1,488 @@
+[
+  {
+    "question": "Đại học Quốc gia Hà Nội được thành lập vào năm nào?",
+    "reference_answer": "1993",
+    "rag_prompt": "\nDựa vào thông tin sau: Đại học Quốc gia Hà Nội VNU được thành lập vào ngày 5 tháng 6 năm 1993 Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Cơ hội tham gia dự án quốc tế, đóng góp vào công nghệ hàng không vũ trụ Việt Nam\nTrả lời câu hỏi: Đại học Quốc gia Hà Nội được thành lập vào năm nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "1993."
+  },
+  {
+    "question": "VNU có bao nhiêu cơ sở chính tại Hà Nội?",
+    "reference_answer": "5",
+    "rag_prompt": "\nDựa vào thông tin sau: VNU có 5 cơ sở chính tại Hà Nội, bao gồm cơ sở tại Thanh Xuân, Gia Lâm, v.v Đại học Quốc gia Hà Nội VNU được thành lập vào ngày 5 tháng 6 năm 1993 Chương trình đào tạo của VNU bao gồm cử nhân, thạc sĩ và tiến sĩ\nTrả lời câu hỏi: VNU có bao nhiêu cơ sở chính tại Hà Nội?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "5 cơ sở chính tại Hà Nội."
+  },
+  {
+    "question": "Chương trình đào tạo của VNU bao gồm những gì?",
+    "reference_answer": "cử nhân, thạc sĩ, tiến sĩ",
+    "rag_prompt": "\nDựa vào thông tin sau: Chương trình đào tạo của VNU bao gồm cử nhân, thạc sĩ và tiến sĩ VNU có 5 cơ sở chính tại Hà Nội, bao gồm cơ sở tại Thanh Xuân, Gia Lâm, v.v Đại học Quốc gia Hà Nội VNU được thành lập vào ngày 5 tháng 6 năm 1993\nTrả lời câu hỏi: Chương trình đào tạo của VNU bao gồm những gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "5 cơ sở chính tại Hà Nội bao gồm:"
+  },
+  {
+    "question": "Địa chỉ của Trường Đại học Công nghệ nằm ở đâu?",
+    "reference_answer": "E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Kỹ thuật năng lượng, khóa QH-2020, tại Khoa Vật lý kỹ thuật và công nghệ nano Đổi mới tương lai nông nghiệp Việt Nam bằng công nghệ, theo tầm nhìn Nhà trường\nTrả lời câu hỏi: Địa chỉ của Trường Đại học Công nghệ nằm ở đâu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Địa chỉ của Trường Đại học Công nghệ nằm ở Hà Nội"
+  },
+  {
+    "question": "Trường Đại học Công nghệ tuyển sinh bao nhiêu ngành đào tạo trình độ đại học trong năm 2025?",
+    "reference_answer": "14",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025 Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên 4000 sinh viên, tập trung vào các ngành công nghệ chiến lược\nTrả lời câu hỏi: Trường Đại học Công nghệ tuyển sinh bao nhiêu ngành đào tạo trình độ đại học trong năm 2025?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "14 ngành"
+  },
+  {
+    "question": "Ai là Bí thư Đảng ủy Trường Đại học Công nghệ nhiệm kỳ 2020–2025?",
+    "reference_answer": "Lê Trung Thành",
+    "rag_prompt": "\nDựa vào thông tin sau: Bí thư Đảng ủy là Lê Trung Thành, được chỉ định ngày 22/5/2025 bởi Lê Quân, Giám đốc ĐHQGHN Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Kỹ thuật robot, khóa QH-2020, Khoa Điện tử viễn thông\nTrả lời câu hỏi: Ai là Bí thư Đảng ủy Trường Đại học Công nghệ nhiệm kỳ 2020–2025?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Lê Trung Thành"
+  },
+  {
+    "question": "Địa chỉ email tư vấn tuyển sinh của UET là gì?",
+    "reference_answer": "tuyensinhdhcn@vnu.edu.vn",
+    "rag_prompt": "\nDựa vào thông tin sau: Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET Trang chủ là http//uet.vnu.edu.vn/, nơi cung cấp thông tin chính thức của UET Trang web là tuyensinh.uet.vnu.edu.vn, cung cấp thông tin tuyển sinh\nTrả lời câu hỏi: Địa chỉ email tư vấn tuyển sinh của UET là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "email tư vấn tuyển sinh của UET là info@uet.edu.vn"
+  },
+  {
+    "question": "Số điện thoại tư vấn tuyển sinh của UET là gì?",
+    "reference_answer": "0334924224",
+    "rag_prompt": "\nDựa vào thông tin sau: Số điện thoại là 0334924224, dành cho tư vấn tuyển sinh và nhập học Số điện thoại là 024.3754 7865, hỗ trợ thông tin tuyển sinh 2024 Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET\nTrả lời câu hỏi: Số điện thoại tư vấn tuyển sinh của UET là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "0334924224, 024.3754 7865."
+  },
+  {
+    "question": "Trang web chính thức của thông tin tuyển sinh UET là gì?",
+    "reference_answer": "tuyensinh.uet.vnu.edu.vn",
+    "rag_prompt": "\nDựa vào thông tin sau: Trang chủ là http//uet.vnu.edu.vn/, nơi cung cấp thông tin chính thức của UET Trang web là tuyensinh.uet.vnu.edu.vn, cung cấp thông tin tuyển sinh Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET\nTrả lời câu hỏi: Trang web chính thức của thông tin tuyển sinh UET là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "http://uet.vnu.edu.vn/."
+  },
+  {
+    "question": "Phương thức chính để tra cứu thông tin tuyển sinh UET là gì?",
+    "reference_answer": "Tra cứu",
+    "rag_prompt": "\nDựa vào thông tin sau: Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET Trang chủ là http//uet.vnu.edu.vn/, nơi cung cấp thông tin chính thức của UET Trang web là tuyensinh.uet.vnu.edu.vn, cung cấp thông tin tuyển sinh\nTrả lời câu hỏi: Phương thức chính để tra cứu thông tin tuyển sinh UET là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Trang web chính thức của UET là tuyensinh.uet.vnu.edu.vn, cung cấp thông tin chính thức về tuyển sinh UET."
+  },
+  {
+    "question": "Trang chủ của Trường Đại học Công nghệ là gì?",
+    "reference_answer": "http://uet.vnu.edu.vn/",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Kỹ thuật robot, khóa QH-2020, Khoa Điện tử viễn thông Nguyễn Đức Nam Khoa học Máy tính Nguyễn Minh Trang Công nghệ Thông tin Nguyễn Quang Linh Công nghệ Kỹ thuật điện\nTrả lời câu hỏi: Trang chủ của Trường Đại học Công nghệ là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "https://www.ductinhconghedu.edu.vn/"
+  },
+  {
+    "question": "Link group tư vấn tuyển sinh của UET là gì?",
+    "reference_answer": "https://www.facebook.com/groups/uet.tvts/",
+    "rag_prompt": "\nDựa vào thông tin sau: Link group là https//www.facebook.com/groups/uet.tvts/, hỗ trợ tư vấn tuyển sinh 2025 Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia\nTrả lời câu hỏi: Link group tư vấn tuyển sinh của UET là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "https://www.facebook.com/groups/uet.tvts/"
+  },
+  {
+    "question": "Chỉ tiêu tuyển sinh chương trình VNU 12+ năm học 2024-2025 là bao nhiêu?",
+    "reference_answer": "30",
+    "rag_prompt": "\nDựa vào thông tin sau: Chương trình đào tạo của VNU bao gồm cử nhân, thạc sĩ và tiến sĩ VNU có 5 cơ sở chính tại Hà Nội, bao gồm cơ sở tại Thanh Xuân, Gia Lâm, v.v Đại học Quốc gia Hà Nội VNU được thành lập vào ngày 5 tháng 6 năm 1993\nTrả lời câu hỏi: Chỉ tiêu tuyển sinh chương trình VNU 12+ năm học 2024-2025 là bao nhiêu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "12.000,000"
+  },
+  {
+    "question": "Lệ phí xét tuyển chương trình VNU 12+ là bao nhiêu?",
+    "reference_answer": "200.000đ/hồ sơ",
+    "rag_prompt": "\nDựa vào thông tin sau: Chương trình đào tạo của VNU bao gồm cử nhân, thạc sĩ và tiến sĩ VNU có 5 cơ sở chính tại Hà Nội, bao gồm cơ sở tại Thanh Xuân, Gia Lâm, v.v Đại học Quốc gia Hà Nội VNU được thành lập vào ngày 5 tháng 6 năm 1993\nTrả lời câu hỏi: Lệ phí xét tuyển chương trình VNU 12+ là bao nhiêu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "1.000.000 đồng."
+  },
+  {
+    "question": "Thời gian công bố kết quả xét tuyển chương trình VNU 12+ là khi nào?",
+    "reference_answer": "Trước 16h00 ngày 10/10/2024",
+    "rag_prompt": "\nDựa vào thông tin sau: VNU có 5 cơ sở chính tại Hà Nội, bao gồm cơ sở tại Thanh Xuân, Gia Lâm, v.v Đại học Quốc gia Hà Nội VNU được thành lập vào ngày 5 tháng 6 năm 1993 Công bố trước 16h00 ngày 10/10/2025, sau xét tuyển từ 03/10 đến 08/10/2025\nTrả lời câu hỏi: Thời gian công bố kết quả xét tuyển chương trình VNU 12+ là khi nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "08/10/2025."
+  },
+  {
+    "question": "Điểm chuẩn ngành Công nghệ thông tin năm 2024 của UET là bao nhiêu?",
+    "reference_answer": "27,8",
+    "rag_prompt": "\nDựa vào thông tin sau: Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia 2021, đánh dấu khởi đầu năm học mới tại UET Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET\nTrả lời câu hỏi: Điểm chuẩn ngành Công nghệ thông tin năm 2024 của UET là bao nhiêu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "7.500 điểm chuẩn ngành Công nghệ thông tin năm 2024 của UET là 7.500 điểm."
+  },
+  {
+    "question": "Thời gian tra cứu kết quả trúng tuyển năm 2024 của UET bắt đầu từ khi nào?",
+    "reference_answer": "21h00 ngày 17/08/2024",
+    "rag_prompt": "\nDựa vào thông tin sau: Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET 2021, đánh dấu khởi đầu năm học mới tại UET Bắt đầu từ 21h00 ngày 17/08/2024, tra cứu tại https//tuyensinh.uet.vnu.edu.vn/\nTrả lời câu hỏi: Thời gian tra cứu kết quả trúng tuyển năm 2024 của UET bắt đầu từ khi nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "21h00 ngày 17/08/2024."
+  },
+  {
+    "question": "Số điện thoại hỗ trợ phản hồi tuyển sinh của UET là gì?",
+    "reference_answer": "0334.924.224",
+    "rag_prompt": "\nDựa vào thông tin sau: Số điện thoại là 0334.924.224, hỗ trợ phản hồi tuyển sinh 2025 Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET Số điện thoại là 0334924224, dành cho tư vấn tuyển sinh và nhập học\nTrả lời câu hỏi: Số điện thoại hỗ trợ phản hồi tuyển sinh của UET là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "0334.924.224"
+  },
+  {
+    "question": "Thời gian nộp minh chứng xét tuyển ĐHCQ năm 2024 của UET là khi nào?",
+    "reference_answer": "Từ 8h00 ngày 20/8/2024 đến 17h00 ngày 10/09/2024",
+    "rag_prompt": "\nDựa vào thông tin sau: 2021, đánh dấu khởi đầu năm học mới tại UET Link là QHI_De an TS ĐHCQ năm 2024, tải tại trang tuyển sinh chính thức Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET\nTrả lời câu hỏi: Thời gian nộp minh chứng xét tuyển ĐHCQ năm 2024 của UET là khi nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "2021, đánh dấu khởi đầu năm học mới tại UET Link là QHI_De an TS ĐHCQ năm 2024, tải tại trang tuyển sinh chính thức Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET"
+  },
+  {
+    "question": "Địa chỉ nộp minh chứng xét tuyển ĐHCQ năm 2024 của UET là đâu?",
+    "reference_answer": "Phòng 107, Nhà E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội",
+    "rag_prompt": "\nDựa vào thông tin sau: Link là QHI_De an TS ĐHCQ năm 2024, tải tại trang tuyển sinh chính thức 2021, đánh dấu khởi đầu năm học mới tại UET Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET\nTrả lời câu hỏi: Địa chỉ nộp minh chứng xét tuyển ĐHCQ năm 2024 của UET là đâu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "https://www.uet.edu.vn/du-lct/du-an-jiu-khau-2024-ctm-2024/"
+  },
+  {
+    "question": "Minh chứng cần nộp cho xét tuyển thẳng theo quy chế ĐHQGHN là gì?",
+    "reference_answer": "Giấy chứng nhận đoạt giải bản sao hợp lệ",
+    "rag_prompt": "\nDựa vào thông tin sau: Giấy chứng nhận đoạt giải bản sao hợp lệ, kèm học bạ và giấy thi THPT 2024 25/5/2004, thuộc ĐHQGHN Hội thảo “Sinh viên cần chuẩn bị gì để khởi nghiệp thành công” với chuyên gia\nTrả lời câu hỏi: Minh chứng cần nộp cho xét tuyển thẳng theo quy chế ĐHQGHN là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Giấy chứng nhận đoạt giải bản sao hợp lệ, kèm học bạ và giấy thi THPT 2024."
+  },
+  {
+    "question": "Thời gian nhập học đại học chính quy năm 2024 của UET diễn ra khi nào?",
+    "reference_answer": "Thứ Bảy ngày 24/08/2024",
+    "rag_prompt": "\nDựa vào thông tin sau: 2021, đánh dấu khởi đầu năm học mới tại UET Trang chủ là http//uet.vnu.edu.vn/, nơi cung cấp thông tin chính thức của UET Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET\nTrả lời câu hỏi: Thời gian nhập học đại học chính quy năm 2024 của UET diễn ra khi nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "2024"
+  },
+  {
+    "question": "Số tiền tạm thu khi nhập học tại UET năm 2024 là bao nhiêu?",
+    "reference_answer": "8.000.000đ",
+    "rag_prompt": "\nDựa vào thông tin sau: 2021, đánh dấu khởi đầu năm học mới tại UET Trang chủ là http//uet.vnu.edu.vn/, nơi cung cấp thông tin chính thức của UET Hotline là 0886241976, hỗ trợ thắc mắc nhập học năm 2024\nTrả lời câu hỏi: Số tiền tạm thu khi nhập học tại UET năm 2024 là bao nhiêu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "0"
+  },
+  {
+    "question": "Hotline hỗ trợ nhập học của UET là số nào?",
+    "reference_answer": "0886241976",
+    "rag_prompt": "\nDựa vào thông tin sau: Hotline là 0886241976, hỗ trợ thắc mắc nhập học năm 2024 Số điện thoại là 0334924224, dành cho tư vấn tuyển sinh và nhập học Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET\nTrả lời câu hỏi: Hotline hỗ trợ nhập học của UET là số nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "0886241976"
+  },
+  {
+    "question": "Thời gian mở cổng đăng ký xét tuyển ĐHCQ năm 2024 của UET là khi nào?",
+    "reference_answer": "Từ 08/05/2024 đến 10/06/2024",
+    "rag_prompt": "\nDựa vào thông tin sau: 2021, đánh dấu khởi đầu năm học mới tại UET Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET Trang chủ là http//uet.vnu.edu.vn/, nơi cung cấp thông tin chính thức của UET\nTrả lời câu hỏi: Thời gian mở cổng đăng ký xét tuyển ĐHCQ năm 2024 của UET là khi nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "2024"
+  },
+  {
+    "question": "Link tải đề án tuyển sinh ĐHCQ năm 2024 của UET là gì?",
+    "reference_answer": "QHI_De an TS ĐHCQ năm 2024",
+    "rag_prompt": "\nDựa vào thông tin sau: Link là QHI_De an TS ĐHCQ năm 2024, tải tại trang tuyển sinh chính thức Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET Trang chủ là http//uet.vnu.edu.vn/, nơi cung cấp thông tin chính thức của UET\nTrả lời câu hỏi: Link tải đề án tuyển sinh ĐHCQ năm 2024 của UET là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "https://uet.vnu.edu.vn/tuy-sinh/2024/danh-sach-de-an-tuyen-sinh-dinh-cho-quoc-ha/"
+  },
+  {
+    "question": "Số điện thoại liên hệ Phòng Đào tạo của UET là gì?",
+    "reference_answer": "024.3754 7865",
+    "rag_prompt": "\nDựa vào thông tin sau: Số điện thoại là 0334924224, dành cho tư vấn tuyển sinh và nhập học Hotline là 0886241976, hỗ trợ thắc mắc nhập học năm 2024 Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia\nTrả lời câu hỏi: Số điện thoại liên hệ Phòng Đào tạo của UET là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "0334924224"
+  },
+  {
+    "question": "Khoa nào tại UET đóng góp vào ngành nông nghiệp bền vững?",
+    "reference_answer": "Khoa Công nghệ Nông nghiệp",
+    "rag_prompt": "\nDựa vào thông tin sau: Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Khoa Công nghệ Nông nghiệp, nơi đào tạo kỹ sư tiên phong cho nông nghiệp Đổi mới tương lai nông nghiệp Việt Nam bằng công nghệ, theo tầm nhìn Nhà trường\nTrả lời câu hỏi: Khoa nào tại UET đóng góp vào ngành nông nghiệp bền vững?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "KHOA BỘNG."
+  },
+  {
+    "question": "Chương trình VTV nào tôn vinh sinh viên UET trong nông nghiệp?",
+    "reference_answer": "Ánh sáng tri thức",
+    "rag_prompt": "\nDựa vào thông tin sau: Chương trình Ánh sáng tri thức, giới thiệu gương mặt xuất sắc của UET Khoa Công nghệ Nông nghiệp, nơi đào tạo kỹ sư tiên phong cho nông nghiệp Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia\nTrả lời câu hỏi: Chương trình VTV nào tôn vinh sinh viên UET trong nông nghiệp?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Chương trình Ánh sáng tri thức"
+  },
+  {
+    "question": "Mục tiêu chính của sinh viên Khoa Công nghệ Nông nghiệp tại UET là gì?",
+    "reference_answer": "đổi mới tương lai nông nghiệp Việt Nam bằng công nghệ",
+    "rag_prompt": "\nDựa vào thông tin sau: Khoa Công nghệ Nông nghiệp, nơi đào tạo kỹ sư tiên phong cho nông nghiệp Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET\nTrả lời câu hỏi: Mục tiêu chính của sinh viên Khoa Công nghệ Nông nghiệp tại UET là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Trở thành kỹ sư nông nghiệp tiên phong, có khả năng áp dụng công nghệ vào sản xuất nông nghiệp, giải quyết vấn đề, phát triển bền vững."
+  },
+  {
+    "question": "Chương trình nào của HTV giới thiệu ngành Công nghệ Hàng không Vũ trụ tại UET?",
+    "reference_answer": "[HTV] Sinh viên năm hai chia sẻ lý do lựa chọn ngành Công nghệ Hàng không Vũ trụ của UET",
+    "rag_prompt": "\nDựa vào thông tin sau: 2 viện Công nghệ Hàng không Vũ trụ, Trí tuệ Nhân tạo Cơ hội tham gia dự án quốc tế, đóng góp vào công nghệ hàng không vũ trụ Việt Nam Chương trình Ánh sáng tri thức, giới thiệu gương mặt xuất sắc của UET\nTrả lời câu hỏi: Chương trình nào của HTV giới thiệu ngành Công nghệ Hàng không Vũ trụ tại UET?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "2 viện Công nghệ Hàng không Vũ trụ, Trí tuệ Nhân tạo Cơ hội tham gia dự án quốc tế, đóng góp vào công nghệ hàng không vũ trụ Việt Nam Chương trình Ánh sáng tri thức, giới thiệu gương mặt xuất sắc của UET."
+  },
+  {
+    "question": "Số chỉ tiêu ngành Khoa học dữ liệu tại UET năm 2025 là bao nhiêu?",
+    "reference_answer": "120",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025 120 chỉ tiêu, thuộc chương trình Khoa học và Kỹ thuật dữ liệu Số chỉ tiêu là 120, hỗ trợ nhu cầu chuyển đổi số năm 2025\nTrả lời câu hỏi: Số chỉ tiêu ngành Khoa học dữ liệu tại UET năm 2025 là bao nhiêu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "120 chỉ tiêu"
+  },
+  {
+    "question": "Ngành Công nghệ Hàng không Vũ trụ tại UET đào tạo trong bao lâu?",
+    "reference_answer": "4,5 năm",
+    "rag_prompt": "\nDựa vào thông tin sau: 2 viện Công nghệ Hàng không Vũ trụ, Trí tuệ Nhân tạo Cơ hội tham gia dự án quốc tế, đóng góp vào công nghệ hàng không vũ trụ Việt Nam Kỹ thuật robot, khóa QH-2020, Khoa Điện tử viễn thông\nTrả lời câu hỏi: Ngành Công nghệ Hàng không Vũ trụ tại UET đào tạo trong bao lâu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "2 năm."
+  },
+  {
+    "question": "Chương trình đào tạo ngành Công nghệ Hàng không Vũ trụ tại UET bao gồm gì?",
+    "reference_answer": "thiết kế, sản xuất thiết bị bay không người lái, máy bay cỡ nhỏ, hệ thống điều khiển, công nghệ vệ tinh",
+    "rag_prompt": "\nDựa vào thông tin sau: 2 viện Công nghệ Hàng không Vũ trụ, Trí tuệ Nhân tạo Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Chương trình đào tạo của VNU bao gồm cử nhân, thạc sĩ và tiến sĩ\nTrả lời câu hỏi: Chương trình đào tạo ngành Công nghệ Hàng không Vũ trụ tại UET bao gồm gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Chương trình đào tạo của VNU bao gồm cử nhân, thạc sĩ và tiến sĩ."
+  },
+  {
+    "question": "Cơ hội nghề nghiệp nào dành cho kỹ sư ngành Công nghệ Hàng không Vũ trụ tại UET?",
+    "reference_answer": "tham gia dự án quốc tế, phát triển công nghệ hàng không vũ trụ quốc gia",
+    "rag_prompt": "\nDựa vào thông tin sau: Cơ hội tham gia dự án quốc tế, đóng góp vào công nghệ hàng không vũ trụ Việt Nam 2 viện Công nghệ Hàng không Vũ trụ, Trí tuệ Nhân tạo Kỹ thuật robot, khóa QH-2020, Khoa Điện tử viễn thông\nTrả lời câu hỏi: Cơ hội nghề nghiệp nào dành cho kỹ sư ngành Công nghệ Hàng không Vũ trụ tại UET?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Tác giả có thể tham gia dự án quốc tế, đóng góp vào công nghệ hàng không vũ trụ Việt Nam 2 viện Công nghệ Hàng không Vũ trụ, Trí tuệ Nhân tạo Kỹ thuật robot, khóa QH-2020, Khoa Điện tử viễn thông."
+  },
+  {
+    "question": "Trường Đại học Công nghệ có bao nhiêu lĩnh vực được xếp hạng trong QS WUR by Subject 2025?",
+    "reference_answer": "4 lĩnh vực",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025 Hai lĩnh vực được xếp hạng trong nhóm 401-450 là Cơ kỹ thuật, hàng không và chế tạo Engineering – Mechanical, Aeronautical & Manufacture và Kỹ thuật điện và điện tử Engineering – Electrical & Electronic cải thiện so với kỳ trước\nTrả lời câu hỏi: Trường Đại học Công nghệ có bao nhiêu lĩnh vực được xếp hạng trong QS WUR by Subject 2025?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025 là: Kỹ thuật và Công nghệ, Khoa học Tự nhiên; Cơ kỹ thuật, hàng không và chế tạo Engineering – Mechanical, Aeronautical & Manufacture và Kỹ thuật điện và điện tử Engineering – Electrical & Electronic."
+  },
+  {
+    "question": "Lĩnh vực nào của Trường Đại học Công nghệ được xếp hạng trong nhóm 401-450 theo QS WUR by Subject 2025?",
+    "reference_answer": "Cơ kỹ thuật, hàng không và chế tạo (Engineering – Mechanical, Aeronautical & Manufacture); Kỹ thuật điện và điện tử (Engineering – Electrical & Electronic)",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Hai lĩnh vực được xếp hạng trong nhóm 401-450 là Cơ kỹ thuật, hàng không và chế tạo Engineering – Mechanical, Aeronautical & Manufacture và Kỹ thuật điện và điện tử Engineering – Electrical & Electronic cải thiện so với kỳ trước Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025\nTrả lời câu hỏi: Lĩnh vực nào của Trường Đại học Công nghệ được xếp hạng trong nhóm 401-450 theo QS WUR by Subject 2025?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Cơ kỹ thuật, hàng không và chế tạo Engineering – Mechanical, Aeronautical & Manufacture và Kỹ thuật điện và điện tử Engineering – Electrical & Electronic được xếp hạng trong nhóm 401-450."
+  },
+  {
+    "question": "Ngành Khoa học dữ liệu tại Trường Đại học Công nghệ tuyển sinh bao nhiêu chỉ tiêu năm 2025?",
+    "reference_answer": "120",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025 Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên 120 chỉ tiêu, thuộc chương trình Khoa học và Kỹ thuật dữ liệu\nTrả lời câu hỏi: Ngành Khoa học dữ liệu tại Trường Đại học Công nghệ tuyển sinh bao nhiêu chỉ tiêu năm 2025?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "120 chỉ tiêu."
+  },
+  {
+    "question": "Sinh viên ngành Khoa học dữ liệu tại UET có cơ hội thực tập tại những doanh nghiệp nào?",
+    "reference_answer": "Viettel, FPT, VNPT",
+    "rag_prompt": "\nDựa vào thông tin sau: Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Trang web là tuyensinh.uet.vnu.edu.vn, cung cấp thông tin tuyển sinh Trang chủ là http//uet.vnu.edu.vn/, nơi cung cấp thông tin chính thức của UET\nTrả lời câu hỏi: Sinh viên ngành Khoa học dữ liệu tại UET có cơ hội thực tập tại những doanh nghiệp nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Trang web là tuyensinh.uet.vnu.edu.vn, cung cấp thông tin tuyển sinh Trang chủ là http//uet.vnu.edu.vn/, nơi cung cấp thông tin chính thức của UET"
+  },
+  {
+    "question": "Trường Đại học Công nghệ dự kiến tuyển bao nhiêu sinh viên năm 2025?",
+    "reference_answer": "4000",
+    "rag_prompt": "\nDựa vào thông tin sau: 4000 sinh viên, tập trung vào các ngành công nghệ chiến lược Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025 Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên\nTrả lời câu hỏi: Trường Đại học Công nghệ dự kiến tuyển bao nhiêu sinh viên năm 2025?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "4000."
+  },
+  {
+    "question": "Ngành nào tại UET được ưu tiên với 1000 chỉ tiêu trong năm 2025?",
+    "reference_answer": "Khoa học máy tính, Kỹ thuật máy tính, Điện tử viễn thông, Công nghệ AI, Kỹ thuật dữ liệu, Vật liệu",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025 Số chỉ tiêu là 120, hỗ trợ nhu cầu chuyển đổi số năm 2025 Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên\nTrả lời câu hỏi: Ngành nào tại UET được ưu tiên với 1000 chỉ tiêu trong năm 2025?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "5 ngành chuyên ngành kỹ thuật."
+  },
+  {
+    "question": "Thủ khoa Đinh Trọng Thăng tốt nghiệp ngành nào tại Trường Đại học Công nghệ?",
+    "reference_answer": "Kỹ thuật năng lượng",
+    "rag_prompt": "\nDựa vào thông tin sau: Kỹ thuật năng lượng, khóa QH-2020, tại Khoa Vật lý kỹ thuật và công nghệ nano Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Khoa Công nghệ Nông nghiệp, nơi đào tạo kỹ sư tiên phong cho nông nghiệp\nTrả lời câu hỏi: Thủ khoa Đinh Trọng Thăng tốt nghiệp ngành nào tại Trường Đại học Công nghệ?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Đinh Trọng Thăng tốt nghiệp ngành Khoa Vật lý kỹ thuật và công nghệ nano."
+  },
+  {
+    "question": "Lý do chính khiến Đinh Trọng Thăng từ bỏ học bổng sau đại học tại Hàn Quốc và Đài Loan để học tại UET?",
+    "reference_answer": "Đề án đổi mới, nâng cao chất lượng đào tạo sau đại học và môi trường học thuật lý tưởng tại UET",
+    "rag_prompt": "\nDựa vào thông tin sau: Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Đề án đổi mới đào tạo sau đại học, miễn học phí, cấp sinh hoạt phí, cơ hội trợ giảng Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025\nTrả lời câu hỏi: Lý do chính khiến Đinh Trọng Thăng từ bỏ học bổng sau đại học tại Hàn Quốc và Đài Loan để học tại UET?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Đinh Trọng Thăng từ bỏ học bổng sau đại học tại Hàn Quốc và Đài Loan để học tại UET vì những ưu đãi đặc biệt của UET."
+  },
+  {
+    "question": "Chính sách nào của UET hỗ trợ học viên cao học và nghiên cứu sinh từ năm 2025?",
+    "reference_answer": "Miễn học phí, cấp sinh hoạt phí hàng tháng",
+    "rag_prompt": "\nDựa vào thông tin sau: Đề án đổi mới đào tạo sau đại học, miễn học phí, cấp sinh hoạt phí, cơ hội trợ giảng 2021, đánh dấu khởi đầu năm học mới tại UET Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET\nTrả lời câu hỏi: Chính sách nào của UET hỗ trợ học viên cao học và nghiên cứu sinh từ năm 2025?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "không có thông tin cụ thể về chính sách hỗ trợ học viên cao học và nghiên cứu sinh từ năm 2025"
+  },
+  {
+    "question": "Ngày hội việc làm UET Job Fair 2025 tổ chức hội thảo nào vào ngày 2/3/2025?",
+    "reference_answer": "Sinh viên cần chuẩn bị gì để khởi nghiệp thành công",
+    "rag_prompt": "\nDựa vào thông tin sau: Chương trình Ánh sáng tri thức, giới thiệu gương mặt xuất sắc của UET Từ 21/08 đến 25/08, gồm sinh hoạt công dân, giới thiệu công tác Trường 2021, đánh dấu khởi đầu năm học mới tại UET\nTrả lời câu hỏi: Ngày hội việc làm UET Job Fair 2025 tổ chức hội thảo nào vào ngày 2/3/2025?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "2/3/2025."
+  },
+  {
+    "question": "Chương trình VNU-Samsung Technology Track (V-STT) hợp tác giữa UET và ai?",
+    "reference_answer": "Samsung Electronics Hàn Quốc",
+    "rag_prompt": "\nDựa vào thông tin sau: Chương trình đào tạo của VNU bao gồm cử nhân, thạc sĩ và tiến sĩ Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia 18/10/1999, từ Khoa Công nghệ Thông tin và CN ĐT-VT của ĐH Khoa học Tự nhiên\nTrả lời câu hỏi: Chương trình VNU-Samsung Technology Track (V-STT) hợp tác giữa UET và ai?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "UET."
+  },
+  {
+    "question": "Tân thủ khoa Nguyễn Văn Duy tốt nghiệp ngành nào tại UET?",
+    "reference_answer": "Cơ kỹ thuật",
+    "rag_prompt": "\nDựa vào thông tin sau: Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Nguyễn Thanh Thủy, PGS.TS Nguyễn Đức Nam Khoa học Máy tính Nguyễn Minh Trang Công nghệ Thông tin Nguyễn Quang Linh Công nghệ Kỹ thuật điện\nTrả lời câu hỏi: Tân thủ khoa Nguyễn Văn Duy tốt nghiệp ngành nào tại UET?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "2018 - Khoa học Máy tính, Nguyễn Minh Trang."
+  },
+  {
+    "question": "Thủ khoa Đỗ Đức Mạnh tốt nghiệp ngành nào tại UET?",
+    "reference_answer": "Kỹ thuật robot",
+    "rag_prompt": "\nDựa vào thông tin sau: Đỗ Bá Đức, cựu sinh viên K48CA, hiện làm việc tại Nhật Bản Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Nguyễn Đức Nam Khoa học Máy tính Nguyễn Minh Trang Công nghệ Thông tin Nguyễn Quang Linh Công nghệ Kỹ thuật điện\nTrả lời câu hỏi: Thủ khoa Đỗ Đức Mạnh tốt nghiệp ngành nào tại UET?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Đỗ Bá Đức tốt nghiệp ngành K48CA, sau đó tốt nghiệp ngành Kỹ thuật điện tại ĐH Quốc gia Yang Ming Chiao Tung, Nhật Bản."
+  },
+  {
+    "question": "Ngày nào diễn ra Ngày hội việc làm UET Job Fair 2025?",
+    "reference_answer": "22/03/2025",
+    "rag_prompt": "\nDựa vào thông tin sau: 2021, đánh dấu khởi đầu năm học mới tại UET Chương trình Ánh sáng tri thức, giới thiệu gương mặt xuất sắc của UET Từ 21/08 đến 25/08, gồm sinh hoạt công dân, giới thiệu công tác Trường\nTrả lời câu hỏi: Ngày nào diễn ra Ngày hội việc làm UET Job Fair 2025?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "21/08 đến 25/08, gồm sinh hoạt công dân, giới thiệu công tác Trường Đa khoa UET."
+  },
+  {
+    "question": "Nhóm nghiên cứu nào của UET đạt giải Best paper award tại ATC 2024?",
+    "reference_answer": "Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, Đài Loan",
+    "rag_prompt": "\nDựa vào thông tin sau: Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia 2021, đánh dấu khởi đầu năm học mới tại UET Kỹ thuật robot, khóa QH-2020, Khoa Điện tử viễn thông\nTrả lời câu hỏi: Nhóm nghiên cứu nào của UET đạt giải Best paper award tại ATC 2024?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Không có thông tin về giải thưởng Best paper award tại ATC 2024."
+  },
+  {
+    "question": "Số lượng học viên UET nhận học bổng Viettel Research Excellence Scholarship 2024 là bao nhiêu?",
+    "reference_answer": "5",
+    "rag_prompt": "\nDựa vào thông tin sau: Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia 2021, đánh dấu khởi đầu năm học mới tại UET Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025\nTrả lời câu hỏi: Số lượng học viên UET nhận học bổng Viettel Research Excellence Scholarship 2024 là bao nhiêu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "120 học viên UET nhận học bổng Viettel Research Excellence Scholarship 2024."
+  },
+  {
+    "question": "Hội thảo ICMAEE 2024 do UET phối hợp với tổ chức nào tổ chức?",
+    "reference_answer": "Hiệp hội Kỹ thuật Cơ Điện tử Quốc tế (ISME)",
+    "rag_prompt": "\nDựa vào thông tin sau: Hiệp hội Kỹ thuật Cơ Điện tử Quốc tế ISME về Kỹ thuật Cơ Điện tử, Hệ thống tự động và Môi trường Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia 2021, đánh dấu khởi đầu năm học mới tại UET\nTrả lời câu hỏi: Hội thảo ICMAEE 2024 do UET phối hợp với tổ chức nào tổ chức?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "UET phối hợp với ICMAEE tổ chức."
+  },
+  {
+    "question": "Thủ khoa Nguyễn Minh Đức tốt nghiệp ngành nào tại UET?",
+    "reference_answer": "Khoa học máy tính",
+    "rag_prompt": "\nDựa vào thông tin sau: Đỗ Bá Đức, cựu sinh viên K48CA, hiện làm việc tại Nhật Bản Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Nguyễn Đức Nam Khoa học Máy tính Nguyễn Minh Trang Công nghệ Thông tin Nguyễn Quang Linh Công nghệ Kỹ thuật điện\nTrả lời câu hỏi: Thủ khoa Nguyễn Minh Đức tốt nghiệp ngành nào tại UET?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Nghe K48CA."
+  },
+  {
+    "question": "Trường Đại học Công nghệ được thành lập vào ngày nào?",
+    "reference_answer": "18/10/1999",
+    "rag_prompt": "\nDựa vào thông tin sau: Đại học Quốc gia Hà Nội VNU được thành lập vào ngày 5 tháng 6 năm 1993 Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Khoa Công nghệ Nông nghiệp, nơi đào tạo kỹ sư tiên phong cho nông nghiệp\nTrả lời câu hỏi: Trường Đại học Công nghệ được thành lập vào ngày nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "5 tháng 6 năm 1993."
+  },
+  {
+    "question": "Nhóm nghiên cứu nào của UET giành giải Nhất Mitsui Chemicals R&D Collaboration Award 2023?",
+    "reference_answer": "Nhóm nghiên cứu Khoa Công nghệ nông nghiệp",
+    "rag_prompt": "\nDựa vào thông tin sau: Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Nhóm nghiên cứu Khoa Công nghệ nông nghiệp, với đề tài Nano bạc chitosan\nTrả lời câu hỏi: Nhóm nghiên cứu nào của UET giành giải Nhất Mitsui Chemicals R&D Collaboration Award 2023?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Nhóm nghiên cứu ĐH Quốc gia Yang Ming Chiao Tung."
+  },
+  {
+    "question": "Chương trình đào tạo nào của UET được đánh giá theo tiêu chuẩn AUN-QA?",
+    "reference_answer": "Mạng máy tính và Truyền thông dữ liệu",
+    "rag_prompt": "\nDựa vào thông tin sau: Mạng máy tính và Truyền thông dữ liệu, sau 5 chương trình trước đạt chuẩn AUN-QA Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET\nTrả lời câu hỏi: Chương trình đào tạo nào của UET được đánh giá theo tiêu chuẩn AUN-QA?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "5 chương trình trước đạt chuẩn AUN-QA, sau đó là chương trình đào tạo của UET được đánh giá theo tiêu chuẩn AUN-QA."
+  },
+  {
+    "question": "Chương trình thạc sĩ nào được liên kết giữa UET và Trường Đại học Paris-Saclay?",
+    "reference_answer": "Kỹ thuật truyền thông và dữ liệu",
+    "rag_prompt": "\nDựa vào thông tin sau: Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia 2021, đánh dấu khởi đầu năm học mới tại UET Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên\nTrả lời câu hỏi: Chương trình thạc sĩ nào được liên kết giữa UET và Trường Đại học Paris-Saclay?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Chương trình thạc sĩ 2 năm thuộc trường Đại học Quốc gia Singapore, được liên kết giữa UET và Đại học Paris-Saclay."
+  },
+  {
+    "question": "Bốn thủ khoa khóa K58 năm học 2016-2017 của UET là ai?",
+    "reference_answer": "Nguyễn Đức Nam, Nguyễn Minh Trang, Nguyễn Quang Linh",
+    "rag_prompt": "\nDựa vào thông tin sau: Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Phương thức chính là Tra cứu, hỗ trợ trên trang tuyển sinh của UET Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025\nTrả lời câu hỏi: Bốn thủ khoa khóa K58 năm học 2016-2017 của UET là ai?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "4 thủ khoa khóa K58 năm học 2016-2017 của UET là: Nguyễn Văn An, Nguyễn Thị Hương, Nguyễn Văn Thành, Nguyễn Văn Huy."
+  },
+  {
+    "question": "Tuần lễ hội nhập cho sinh viên năm học 2017-2018 tại UET diễn ra khi nào?",
+    "reference_answer": "Từ 21/08 đến 25/08",
+    "rag_prompt": "\nDựa vào thông tin sau: 2021, đánh dấu khởi đầu năm học mới tại UET Từ 21/08 đến 25/08, gồm sinh hoạt công dân, giới thiệu công tác Trường Chương trình Ánh sáng tri thức, giới thiệu gương mặt xuất sắc của UET\nTrả lời câu hỏi: Tuần lễ hội nhập cho sinh viên năm học 2017-2018 tại UET diễn ra khi nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "2021, đánh dấu khởi đầu năm học mới tại UET Từ 21/08 đến 25/08, gồm sinh hoạt công dân, giới thiệu công tác Trường Chương trình Ánh sáng tri thức, giới thiệu gương mặt xuất sắc của UET"
+  },
+  {
+    "question": "Ngày nào diễn ra Lễ khai giảng năm học 2021-2022 tại UET?",
+    "reference_answer": "2021",
+    "rag_prompt": "\nDựa vào thông tin sau: 2021, đánh dấu khởi đầu năm học mới tại UET Từ 21/08 đến 25/08, gồm sinh hoạt công dân, giới thiệu công tác Trường 2004, tại Lễ khai giảng năm học 2004-2005 bởi dàn đồng ca sinh viên và cán bộ\nTrả lời câu hỏi: Ngày nào diễn ra Lễ khai giảng năm học 2021-2022 tại UET?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "29/08."
+  },
+  {
+    "question": "Viện nào được ra mắt trực thuộc Trường Đại học Công nghệ?",
+    "reference_answer": "Viện Trí tuệ nhân tạo",
+    "rag_prompt": "\nDựa vào thông tin sau: 2 viện Công nghệ Hàng không Vũ trụ, Trí tuệ Nhân tạo Viện Trí tuệ nhân tạo, tăng cường nghiên cứu công nghệ tiên tiến Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên\nTrả lời câu hỏi: Viện nào được ra mắt trực thuộc Trường Đại học Công nghệ?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "2 viện Công nghệ Hàng không Vũ trụ, Trí tuệ Nhân tạo Viện Trí tuệ nhân tạo."
+  },
+  {
+    "question": "Trường Đại học Công nghệ được thành lập vào ngày nào?",
+    "reference_answer": "25/5/2004",
+    "rag_prompt": "\nDựa vào thông tin sau: Đại học Quốc gia Hà Nội VNU được thành lập vào ngày 5 tháng 6 năm 1993 Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Khoa Công nghệ Nông nghiệp, nơi đào tạo kỹ sư tiên phong cho nông nghiệp\nTrả lời câu hỏi: Trường Đại học Công nghệ được thành lập vào ngày nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "1993."
+  },
+  {
+    "question": "Hiệu trưởng hiện tại của Trường Đại học Công nghệ là ai?",
+    "reference_answer": "GS.TS. Chử Đức Trình",
+    "rag_prompt": "\nDựa vào thông tin sau: Đổi mới tương lai nông nghiệp Việt Nam bằng công nghệ, theo tầm nhìn Nhà trường Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia\nTrả lời câu hỏi: Hiệu trưởng hiện tại của Trường Đại học Công nghệ là ai?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Hiệu trưởng hiện tại của Trường Đại học Công nghệ là Nguyễn Văn Minh."
+  },
+  {
+    "question": "Tầm nhìn của Trường Đại học Công nghệ đến năm 2045 là gì?",
+    "reference_answer": "Trở thành trường đại học kỹ thuật công nghệ hàng đầu trong nước, thuộc nhóm tiên tiến ở Châu Á",
+    "rag_prompt": "\nDựa vào thông tin sau: Đổi mới tương lai nông nghiệp Việt Nam bằng công nghệ, theo tầm nhìn Nhà trường Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Kỹ thuật năng lượng, khóa QH-2020, tại Khoa Vật lý kỹ thuật và công nghệ nano\nTrả lời câu hỏi: Tầm nhìn của Trường Đại học Công nghệ đến năm 2045 là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Đổi mới tương lai nông nghiệp Việt Nam bằng công nghệ."
+  },
+  {
+    "question": "Khẩu hiệu hành động của Trường Đại học Công nghệ là gì?",
+    "reference_answer": "Sáng tạo – Tiên phong – Chất lượng cao",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Kỹ thuật năng lượng, khóa QH-2020, tại Khoa Vật lý kỹ thuật và công nghệ nano Đổi mới tương lai nông nghiệp Việt Nam bằng công nghệ, theo tầm nhìn Nhà trường\nTrả lời câu hỏi: Khẩu hiệu hành động của Trường Đại học Công nghệ là gì?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Khẩu hiệu hành động của Trường Đại học Công nghệ là đổi mới tương lai nông nghiệp Việt Nam bằng công nghệ."
+  },
+  {
+    "question": "Trường Đại học Công nghệ có bao nhiêu khoa trực thuộc?",
+    "reference_answer": "6",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên 2 viện Công nghệ Hàng không Vũ trụ, Trí tuệ Nhân tạo 23 ngành, bao gồm Công nghệ thông tin, Trí tuệ nhân tạo, Thiết kế công nghiệp, Công nghệ sinh học\nTrả lời câu hỏi: Trường Đại học Công nghệ có bao nhiêu khoa trực thuộc?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "23 khoa trực thuộc."
+  },
+  {
+    "question": "Trường Đại học Công nghệ có bao nhiêu viện trực thuộc?",
+    "reference_answer": "2",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên 2 viện Công nghệ Hàng không Vũ trụ, Trí tuệ Nhân tạo Viện Trí tuệ nhân tạo, tăng cường nghiên cứu công nghệ tiên tiến\nTrả lời câu hỏi: Trường Đại học Công nghệ có bao nhiêu viện trực thuộc?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "3 viện"
+  },
+  {
+    "question": "Trường Đại học Công nghệ có bao nhiêu Nhà giáo Nhân dân?",
+    "reference_answer": "2",
+    "rag_prompt": "\nDựa vào thông tin sau: 2 Nhà giáo Nhân dân PGS.TS 9 Nhà giáo Ưu tú GS.TSKH Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên\nTrả lời câu hỏi: Trường Đại học Công nghệ có bao nhiêu Nhà giáo Nhân dân?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "1."
+  },
+  {
+    "question": "Trường Đại học Công nghệ có bao nhiêu Nhà giáo Ưu tú?",
+    "reference_answer": "9",
+    "rag_prompt": "\nDựa vào thông tin sau: 9 Nhà giáo Ưu tú GS.TSKH Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Viện Trí tuệ nhân tạo, tăng cường nghiên cứu công nghệ tiên tiến\nTrả lời câu hỏi: Trường Đại học Công nghệ có bao nhiêu Nhà giáo Ưu tú?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "9 nhà giáo Ưu tú GS.TSKH Trường Đại học Công nghệ."
+  },
+  {
+    "question": "Trường Đại học Công nghệ có bao nhiêu giáo sư?",
+    "reference_answer": "7",
+    "rag_prompt": "\nDựa vào thông tin sau: 4000 sinh viên, tập trung vào các ngành công nghệ chiến lược Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên 7 giáo sư\nTrả lời câu hỏi: Trường Đại học Công nghệ có bao nhiêu giáo sư?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "7 giáo sư."
+  },
+  {
+    "question": "Trường Đại học Công nghệ có bao nhiêu phó giáo sư?",
+    "reference_answer": "34",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên 34 phó giáo sư 4000 sinh viên, tập trung vào các ngành công nghệ chiến lược\nTrả lời câu hỏi: Trường Đại học Công nghệ có bao nhiêu phó giáo sư?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "34."
+  },
+  {
+    "question": "Bài hát 'Trường Đại học Công nghệ mến yêu' do ai sáng tác?",
+    "reference_answer": "Đỗ Bá Đức",
+    "rag_prompt": "\nDựa vào thông tin sau: Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia Hàng đầu trong nước, nhóm tiên tiến Châu Á, trung tâm xuất sắc đào tạo và nghiên cứu Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên\nTrả lời câu hỏi: Bài hát 'Trường Đại học Công nghệ mến yêu' do ai sáng tác?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "Đỗ Hữu Bá."
+  },
+  {
+    "question": "Bài hát 'Trường Đại học Công nghệ mến yêu' được trình diễn lần đầu vào năm nào?",
+    "reference_answer": "2004",
+    "rag_prompt": "\nDựa vào thông tin sau: Từ 21/08 đến 25/08, gồm sinh hoạt công dân, giới thiệu công tác Trường Đại học Quốc gia Hà Nội VNU được thành lập vào ngày 5 tháng 6 năm 1993 Đổi mới tương lai nông nghiệp Việt Nam bằng công nghệ, theo tầm nhìn Nhà trường\nTrả lời câu hỏi: Bài hát 'Trường Đại học Công nghệ mến yêu' được trình diễn lần đầu vào năm nào?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "2013"
+  },
+  {
+    "question": "Trường Đại học Công nghệ có bao nhiêu ngành đào tạo đại học?",
+    "reference_answer": "16",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025 4000 sinh viên, tập trung vào các ngành công nghệ chiến lược\nTrả lời câu hỏi: Trường Đại học Công nghệ có bao nhiêu ngành đào tạo đại học?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "14 ngành đại học, 6 ngành thạc sĩ liên quan bán dẫn."
+  },
+  {
+    "question": "Trường Đại học Công nghệ có bao nhiêu chuyên ngành thạc sĩ?",
+    "reference_answer": "11",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên 4000 sinh viên, tập trung vào các ngành công nghệ chiến lược 11 chuyên ngành Khoa học máy tính, An toàn thông tin, Kỹ thuật cơ điện tử, Vật liệu nano, Kỹ thuật xây dựng\nTrả lời câu hỏi: Trường Đại học Công nghệ có bao nhiêu chuyên ngành thạc sĩ?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "11 chuyên ngành"
+  },
+  {
+    "question": "Trường Đại học Công nghệ có bao nhiêu ngành đào tạo đại học?",
+    "reference_answer": "23",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên Trường tuyển sinh 14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn trong năm 2025 4000 sinh viên, tập trung vào các ngành công nghệ chiến lược\nTrả lời câu hỏi: Trường Đại học Công nghệ có bao nhiêu ngành đào tạo đại học?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "14 ngành đại học và 6 ngành thạc sĩ liên quan bán dẫn"
+  },
+  {
+    "question": "Thời gian đào tạo chuẩn của ngành Kỹ thuật robot là bao lâu?",
+    "reference_answer": "4,5 năm",
+    "rag_prompt": "\nDựa vào thông tin sau: 16 ngành, 18 chương trình, thời gian đào tạo 4-4.5 năm, bao gồm Công nghệ thông tin, Trí tuệ nhân tạo, Kỹ thuật robot Đào tạo trong 4,5 năm, chuẩn bị kỹ năng cho sinh viên tốt nghiệp 4,5 năm, văn bằng Kỹ sư, bao gồm thực tập doanh nghiệp từ học kỳ hè năm thứ 3\nTrả lời câu hỏi: Thời gian đào tạo chuẩn của ngành Kỹ thuật robot là bao lâu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "4,5 năm."
+  },
+  {
+    "question": "Trường Đại học Công nghệ có bao nhiêu chuyên ngành tiến sĩ?",
+    "reference_answer": "9",
+    "rag_prompt": "\nDựa vào thông tin sau: Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên 4000 sinh viên, tập trung vào các ngành công nghệ chiến lược Khoa Công nghệ Nông nghiệp, nơi đào tạo kỹ sư tiên phong cho nông nghiệp\nTrả lời câu hỏi: Trường Đại học Công nghệ có bao nhiêu chuyên ngành tiến sĩ?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên 4000 sinh viên, tập trung vào các ngành công nghệ chiến lược Khoa Công nghệ Nông nghiệp, nơi đào tạo kỹ sư tiên phong cho nông nghiệp"
+  },
+  {
+    "question": "Tỷ lệ nghiên cứu sinh tốt nghiệp có công trình công bố quốc tế là bao nhiêu?",
+    "reference_answer": "100%",
+    "rag_prompt": "\nDựa vào thông tin sau: 100%, nghiên cứu sinh được hỗ trợ nghiên cứu, thực tập quốc tế, tham gia đề tài Trên 95%, nhờ môi trường học tập, hỗ trợ từ phòng Công tác Sinh viên và các chương trình giao lưu. Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia\nTrả lời câu hỏi: Tỷ lệ nghiên cứu sinh tốt nghiệp có công trình công bố quốc tế là bao nhiêu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "100%"
+  },
+  {
+    "question": "Tỷ lệ sinh viên tốt nghiệp Trường Đại học Công nghệ có việc làm là bao nhiêu?",
+    "reference_answer": "95-97%",
+    "rag_prompt": "\nDựa vào thông tin sau: Trên 95%, nhờ môi trường học tập, hỗ trợ từ phòng Công tác Sinh viên và các chương trình giao lưu. 4000 sinh viên, tập trung vào các ngành công nghệ chiến lược Trường Đại học Công nghệ có 4 lĩnh vực được xếp hạng trong QS WUR by Subject 2025, thuộc 2 nhóm lĩnh vực Kỹ thuật và Công nghệ, Khoa học Tự nhiên\nTrả lời câu hỏi: Tỷ lệ sinh viên tốt nghiệp Trường Đại học Công nghệ có việc làm là bao nhiêu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "100% sinh viên tốt nghiệp"
+  },
+  {
+    "question": "Tỷ lệ sinh viên đạt kết quả rèn luyện từ khá trở lên tại Trường Đại học Công nghệ là bao nhiêu?",
+    "reference_answer": "Trên 95%",
+    "rag_prompt": "\nDựa vào thông tin sau: Trên 95%, nhờ môi trường học tập, hỗ trợ từ phòng Công tác Sinh viên và các chương trình giao lưu. Cơ kỹ thuật, đạt GPA 3,83/4,0, Khoa Cơ học kỹ thuật và tự động hóa Nhóm nghiên cứu UET kết hợp ĐH Quốc gia Yang Ming Chiao Tung, vượt 307 bài từ 24 quốc gia\nTrả lời câu hỏi: Tỷ lệ sinh viên đạt kết quả rèn luyện từ khá trở lên tại Trường Đại học Công nghệ là bao nhiêu?\nChỉ trả lời bằng một câu ngắn gọn, đúng trọng tâm, không lặp lại thông tin thừa hoặc prompt.\nCâu trả lời: ",
+    "rag_answer": "95%."
+  }
+]
