@@ -2,14 +2,14 @@
 Dự án này phát triển một hệ thống hỏi đáp tự động sử dụng mô hình Retrieval-Augmented Generation (RAG) dựa trên dữ liệu từ các trang web của Đại học Quốc gia Hà Nội (VNU) và Trường Đại học Công nghệ (UET). Hệ thống bao gồm các bước thu thập dữ liệu, xử lý văn bản, tạo embedding với mô hình bkai-foundation-models/vietnamese-bi-encoder và sinh câu trả lời bằng mô hình Llama-3.2-1B-Instruct.
 CẤU TRÚC DỰ ÁN  
 
-data/: Thư mục chứa các tệp dữ liệu:
+**data/: Thư mục chứa các tệp dữ liệu:**
 
 data_source.csv: Danh sách các URL để thu thập dữ liệu.  
 questions.json: Dữ liệu kiểm tra (các câu hỏi).  
 Các tệp đã xử lý: all_data.txt, data_clean.txt, data.txt, faiss_index.bin, chunks.pkl.  
 
 
-scr/: Thư mục chứa source code
+**scr/: Thư mục chứa source code**
 
 crawl_data.py: Thu thập dữ liệu từ các URL được liệt kê trong data_source.csv.  
 processing_data.py: Làm sạch dữ liệu thô thu thập được.  
